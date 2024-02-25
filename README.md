@@ -1,5 +1,5 @@
 ## 🙍 About me
-I am detail-oriented Front-end Developer. Passionate about programming and crafting intuitive user interfaces. Effective communicator, adept at working with clients and collaborating in team environments. Continuously seeking opportunities to expand knowledge and contribute to growth-focused development teams.
+I am detail-oriented Front-end Developer. Passionate about programming and crafting intuitive user interfaces. Effective communicator, adept at working with clients and collaborating in team environments. Continuously seeking opportunities to expand knowledge and contribute to growth-focused development teams. My current focus is on learning the backend.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nikodem-bilczewski/)](https://www.linkedin.com/in/nikodem-bilczewski/)
 
