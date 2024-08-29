@@ -1,6 +1,7 @@
 ## 🙍 About me
 
 I am a detail-oriented Full-Stack Developer with a passion for programming and crafting intuitive user interfaces. Proficient in both frontend technologies such as JavaScript, TypeScript and React, as well as backend technologies like Node.js, Express, NestJS and databases including MongoDB and PostgreSQL. An effective communicator, I excel at collaborating with clients and working within team environments. I am continuously seeking opportunities to expand my knowledge and contribute to growth-focused development teams, leveraging my skills in both frontend and backend development to create seamless, full-cycle web applications.
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nikodem-bilczewski/)](https://www.linkedin.com/in/nikodem-bilczewski/)
 
 ## 🔧 Technologies
